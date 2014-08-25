@@ -1,6 +1,1 @@
-<html>
-<head>
-<body>
-page1
-</body>
-</html>
+this is amazing
