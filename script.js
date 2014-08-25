@@ -1,3 +1,3 @@
-if (a==b){
+if (pqe==eee){
 alert("Hello");
 }
